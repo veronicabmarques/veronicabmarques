@@ -4,11 +4,6 @@
   <p align="center">Trabalho como <i>Desenvolvedora C# Pleno</i> e sou tecnóloga em <i>Sistemas para Internet</i>
 </div>
 
-<div align="center">
-  <a href="https://github.com/veronicabmarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veronicabmarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicabmarques&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div align="center"><br>
   <img align="center" alt="Veronica-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Veronica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
